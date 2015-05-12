@@ -1,0 +1,5 @@
+C:\Users\akoc\Desktop\MyWebApp_Ali_Koc\MyWebApp_Ali_Koc\bin\MyWebApp_Ali_Koc.dll
+C:\Users\akoc\Desktop\MyWebApp_Ali_Koc\MyWebApp_Ali_Koc\bin\MyWebApp_Ali_Koc.pdb
+C:\Users\akoc\Desktop\MyWebApp_Ali_Koc\MyWebApp_Ali_Koc\obj\Debug\MyWebApp_Ali_Koc.csprojResolveAssemblyReference.cache
+C:\Users\akoc\Desktop\MyWebApp_Ali_Koc\MyWebApp_Ali_Koc\obj\Debug\MyWebApp_Ali_Koc.dll
+C:\Users\akoc\Desktop\MyWebApp_Ali_Koc\MyWebApp_Ali_Koc\obj\Debug\MyWebApp_Ali_Koc.pdb

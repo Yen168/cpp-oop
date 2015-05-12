@@ -1,0 +1,20 @@
+﻿Build started 2013/12/13 下午 09:51:21.
+Project "C:\Documents and Settings\Yen-an Chen\桌面\ASS8\Ass8_YenAn.Chen\Ass8_YenAn.Chen.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\Ass8_YenAn.Chen.unsuccessfulbuild".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ass8.YenAn.Chen.cpp Assignment8_YenAn.Chen.cpp
+  Assignment8_YenAn.Chen.cpp
+c:\documents and settings\yen-an chen\桌面\ass8\ass8_yenan.chen\assignment8_yenan.chen.cpp(89): error C2065: 'i' : undeclared identifier
+c:\documents and settings\yen-an chen\桌面\ass8\ass8_yenan.chen\assignment8_yenan.chen.cpp(89): error C2228: left of '.Name' must have class/struct/union
+c:\documents and settings\yen-an chen\桌面\ass8\ass8_yenan.chen\assignment8_yenan.chen.cpp(90): error C2065: 'i' : undeclared identifier
+c:\documents and settings\yen-an chen\桌面\ass8\ass8_yenan.chen\assignment8_yenan.chen.cpp(90): error C2228: left of '.NumOfOutages' must have class/struct/union
+c:\documents and settings\yen-an chen\桌面\ass8\ass8_yenan.chen\assignment8_yenan.chen.cpp(91): error C2065: 'i' : undeclared identifier
+c:\documents and settings\yen-an chen\桌面\ass8\ass8_yenan.chen\assignment8_yenan.chen.cpp(91): error C2228: left of '.TotalCust' must have class/struct/union
+  Ass8.YenAn.Chen.cpp
+  Generating Code...
+Done Building Project "C:\Documents and Settings\Yen-an Chen\桌面\ASS8\Ass8_YenAn.Chen\Ass8_YenAn.Chen.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.51
